@@ -1,0 +1,6 @@
+console.log(typeof 'Luisely')
+console.log(typeof 'Doza')
+console.log(typeof null)
+console.log(typeof undefined)
+console.log(typeof 3.14)
+console.log(typeof true)
